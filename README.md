@@ -22,7 +22,7 @@ Finally, start the server and sync the Sequelize models to the MySQL database by
 ``npm start`` 
 
 # Links 
-- [Walkthrough video]()
+- [Walkthrough video](https://drive.google.com/file/d/136gO9OSAHJkd6hkpCv62Jp4mgIyjh-Q2/view)
 - [MIT](https://opensource.org/license/mit/)
 
 # Questions 
