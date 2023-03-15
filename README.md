@@ -22,6 +22,15 @@ Finally, start the server and sync the Sequelize models to the MySQL database by
 ``npm start`` 
 
 ![start demo](assets/gif/startup.gif)
+
+# Tests
+
+To test this application you can use insomnia to make GET, POST, DELETE and PUT requests. The outcomes should looks similar to the images below. 
+
+![get request](assets/img/GET.png)
+![post request](assets/img/POST.png)
+![delete request](assets/img/DELETE.png)
+![put request](assets/img/PUT.png)
 # Links 
 - [Walkthrough video](https://drive.google.com/file/d/136gO9OSAHJkd6hkpCv62Jp4mgIyjh-Q2/view)
 - [MIT](https://opensource.org/license/mit/)
